@@ -1,0 +1,2 @@
+class WebstoreController < ApplicationController
+end
